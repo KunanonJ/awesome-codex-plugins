@@ -284,6 +284,7 @@ Third-party plugins built by the community. [PRs welcome](#contributing)!
 - [Supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents.
 - [Superloopy](https://github.com/beefiker/superloopy) - Evidence-gated Codex loop harness with specialist skills, including near-pixel authorized website cloning backed by screenshots, assets, build output, and visual QA.
 - [Superpipelines](https://github.com/gustavo-meilus/superpipelines) - Design and run write/review-isolated multi-agent AI pipelines across Codex, Claude Code, OpenCode, Cursor, Windsurf, and Cline.
+- [Superstacks](https://github.com/KunanonJ/superstacks) - Lean MIT skill stack for coding agents: plans, TDD, verify-loop, constraints, review, PRs, and ticket pipelines.
 - [tailtest](https://github.com/avansaber/tailtest-codex) - Hook-powered test generation -- detects files changed during an agent turn and instructs Codex to write and run tests automatically. Zero config, 8 languages.
 - [Tandem Workflow Architect](https://github.com/frumu-ai/tandem-codex-plugin) - Plan Tandem workflows in Codex, then validate, preview, and run them through the governed Tandem engine.
 - [Tartiner Labs](https://github.com/tartinerlabs/skills) - Agent skills for git workflows, GitHub automation, security audits, code refactoring, and project tooling.
